@@ -19,7 +19,7 @@ ipython_config.py
 *.csv
 
 # Ignore all Jupyter Notebook files
-*.ipynb
+# *.ipynb
 
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
