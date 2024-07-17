@@ -16,7 +16,7 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # Ignore all CSV files
-*.csv
+# *.csv
 
 # Ignore all Jupyter Notebook files
 # *.ipynb
