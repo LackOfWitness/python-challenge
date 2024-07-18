@@ -35,7 +35,7 @@ def process_csv(file_path):
     results = (
         "Election Results\n\n"
         "-------------------------\n\n"
-        f"Total Votes: {total_votes}\n"
+        f"Total Votes: {total_votes}\n\n"
         "-------------------------\n\n"
     )
 
